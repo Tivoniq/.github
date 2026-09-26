@@ -16,8 +16,8 @@
 
 <br><br>
 
-**Tivoniq** is a robotics, automation and IoT company in **Dhaka, Bangladesh**.<br>
-We design the machine, wire the panel, write the firmware and ship the dashboard,<br>
+**Tivoniq** is a robotics, automation and IoT company in **Dhaka, Bangladesh**.
+We design the machine, wire the panel, write the firmware and ship the dashboard,
 so one team owns the whole system, from the sensor on the wall to the alert on your phone.
 
 </div>
