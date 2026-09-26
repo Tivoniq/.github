@@ -14,122 +14,108 @@
 <a href="mailto:info@tivoniq.com"><img alt="Email" src="https://img.shields.io/badge/info@tivoniq.com-19C3B4?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 <a href="https://wa.me/8801978080214"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-0B2447?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a>
 
+<br><br>
+
+**Tivoniq** is a robotics, automation and IoT company in **Dhaka, Bangladesh**.<br>
+We design the machine, wire the panel, write the firmware and ship the dashboard,<br>
+so one team owns the whole system, from the sensor on the wall to the alert on your phone.
+
 </div>
 
 <br>
 
-### 👋 Engineers for the physical world
-
-**Tivoniq** is a robotics, automation and IoT company based in **Dhaka, Bangladesh**. We design the machine, wire the panel, write the firmware and ship the dashboard, so one team owns the whole system from the sensor on the wall to the alert on your phone.
-
-We work with factories, warehouses, farms, clinics and restaurants that want fewer surprises and more output from the floor they already have.
-
-<br>
-
-## 🛠️ What we build
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-build-dark.svg">
+  <img alt="01 What we build" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-build-light.svg" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/capabilities-dark.svg">
   <img alt="Industrial Robotics, Industrial Automation, IoT Systems, Edge AI and Vision, Custom Software and R&D, Agriculture" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/capabilities-light.svg" width="100%">
 </picture>
 
-<br>
+<br><br>
 
-## 📦 Ready-made systems
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-live-dark.svg">
+  <img alt="02 What it looks like when it runs" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-live-light.svg" width="100%">
+</picture>
 
-| | Product | What it does |
-|:-:|:--|:--|
-| 🐔 | **[Poultry Management System](https://tivoniq.com/products/poultry-management-system)** | Live shed climate, feed, water and power, with automatic control and alerts to the farm manager's phone. |
-| 🏭 | **[Warehouse Monitoring & WMS](https://tivoniq.com/products/warehouse-monitoring)** | Live inventory, barcode receiving and picking, and storage conditions in one dashboard. |
-| 🍽️ | **[QR Ordering & Restaurant Platform](https://tivoniq.com/products/restaurant-qr-ordering)** | Guests scan, order and pay. Tickets land on kitchen displays. Your kitchen just cooks. |
-| 🩺 | **[Telemedicine Platform](https://tivoniq.com/products/telemedicine-platform)** | A white-label telehealth platform: video visits, scheduling, records and payments. |
+<a href="https://tivoniq.com/products/poultry-management-system">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/live-dark.svg">
+  <img alt="Sample live telemetry from a Tivoniq poultry shed" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/live-light.svg" width="100%">
+</picture>
+</a>
 
-<br>
+<br><br>
 
-## 📊 Project reports: running today
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-products-dark.svg">
+  <img alt="03 Ready-made systems" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-products-light.svg" width="100%">
+</picture>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🐔 Poultry IoT management**<br>
-<sub>Commercial farms · Bangladesh</sub>
-
-Shed climate, feed, water and power monitored and controlled automatically, with alerts to the manager's phone.
-
-`24/7` monitoring & alerts
-
-[Read the case study →](https://tivoniq.com/case-studies/poultry-iot-management)
-
-</td>
-<td width="33%" valign="top">
-
-**🏭 Warehouse management**<br>
-<sub>Distribution · Bangladesh</sub>
-
-Barcode-driven receiving, put-away, picking and dispatch with real-time stock levels and environment monitoring.
-
-`0` spreadsheets
-
-[Read the case study →](https://tivoniq.com/case-studies/warehouse-management)
-
-</td>
-<td width="33%" valign="top">
-
-**🩺 Dr. Khan Telemedicine**<br>
-<sub>Healthcare · United States</sub>
-
-Video consultations, scheduling, records and payments, designed, built and operated by Tivoniq.
-
-`99.9%` uptime target
-
-[Read the case study →](https://tivoniq.com/case-studies/dr-khan-telemedicine)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🔁 From first visit to a running system
-
-```
-  01 WALK-THROUGH  ──▶  02 DESIGN & PROGRAM  ──▶  03 BUILD & TEST  ──▶  04 COMMISSION & TRAIN
-  map every input,      drawings, PLC logic,      proven on our floor     live on site, operators
-  output and failure    HMI screens, firmware     with your real parts    trained, remote support
-```
-
-<br>
-
-## 🧰 Tools of the trade
-
-<p>
-<img alt="PLC, SCADA, HMI" src="https://img.shields.io/badge/PLC_·_SCADA_·_HMI-0B2447?style=flat-square&logo=probot&logoColor=19C3B4">
-<img alt="ESP32" src="https://img.shields.io/badge/ESP32-0B2447?style=flat-square&logo=espressif&logoColor=E7352C">
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-0B2447?style=flat-square&logo=raspberrypi&logoColor=A22846">
-<img alt="MQTT" src="https://img.shields.io/badge/MQTT-0B2447?style=flat-square&logo=mqtt&logoColor=white">
-<img alt="C++" src="https://img.shields.io/badge/C++-0B2447?style=flat-square&logo=cplusplus&logoColor=00599C">
-<img alt="Python" src="https://img.shields.io/badge/Python-0B2447?style=flat-square&logo=python&logoColor=FFD43B">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B2447?style=flat-square&logo=typescript&logoColor=3178C6">
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-0B2447?style=flat-square&logo=nextdotjs&logoColor=white">
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-0B2447?style=flat-square&logo=react&logoColor=61DAFB">
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0B2447?style=flat-square&logo=fastapi&logoColor=009688">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL_·_TimescaleDB-0B2447?style=flat-square&logo=postgresql&logoColor=4169E1">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-0B2447?style=flat-square&logo=docker&logoColor=2496ED">
+<p align="center">
+<a href="https://tivoniq.com/products/poultry-management-system"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/product-1-dark.svg"><img alt="Poultry Management System" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/product-1-light.svg" width="49%"></picture></a>
+<a href="https://tivoniq.com/products/warehouse-monitoring"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/product-2-dark.svg"><img alt="Warehouse Monitoring and WMS" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/product-2-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+<a href="https://tivoniq.com/products/restaurant-qr-ordering"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/product-3-dark.svg"><img alt="QR Ordering and Restaurant Platform" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/product-3-light.svg" width="49%"></picture></a>
+<a href="https://tivoniq.com/products/telemedicine-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/product-4-dark.svg"><img alt="Telemedicine Platform" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/product-4-light.svg" width="49%"></picture></a>
 </p>
 
-<br>
-
-## 🤝 Work with us
-
-Tell us what slows your operation down. **[Book a free 30-minute consultation](https://tivoniq.com/book)**, or talk to an engineer directly at **info@tivoniq.com** · **+880 1978-080214**.
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-reports-dark.svg">
+  <img alt="04 Project reports" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-reports-light.svg" width="100%">
+</picture>
+
+<a href="https://tivoniq.com/case-studies/poultry-iot-management"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/report-1-dark.svg"><img alt="Report: Poultry IoT management, 24/7 monitoring and alerts" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/report-1-light.svg" width="100%"></picture></a>
+<a href="https://tivoniq.com/case-studies/warehouse-management"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/report-2-dark.svg"><img alt="Report: Warehouse management, 0 spreadsheets" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/report-2-light.svg" width="100%"></picture></a>
+<a href="https://tivoniq.com/case-studies/dr-khan-telemedicine"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/report-3-dark.svg"><img alt="Report: Dr. Khan Telemedicine, 99.9% uptime target" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/report-3-light.svg" width="100%"></picture></a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-process-dark.svg">
+  <img alt="05 From first visit to a running system" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-process-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/process-dark.svg">
+  <img alt="Walk-through, design and program, build and test, commission" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/process-light.svg" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-stack-dark.svg">
+  <img alt="06 Tools of the trade" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/h-stack-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/stack-dark.svg">
+  <img alt="PLC, SCADA, HMI, ESP32, Raspberry Pi, MQTT, Modbus, C++, Python, TypeScript, Next.js, React Native, FastAPI, PostgreSQL, TimescaleDB, Docker, Edge AI" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/stack-light.svg" width="100%">
+</picture>
+
+<br><br>
 
 <div align="center">
+
+### Tell us what slows your operation down.
+
+<a href="https://tivoniq.com/book"><img alt="Book a free 30-minute consultation" src="https://img.shields.io/badge/Book_a_free_30--minute_consultation-1E6FD9?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
+
+or talk to an engineer: **info@tivoniq.com** · **+880 1978-080214**
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/footer-dark.svg">
   <img alt="Engineers for the physical world" src="https://raw.githubusercontent.com/Tivoniq/.github/main/assets/footer-light.svg" width="100%">
 </picture>
 <sub>© Tivoniq · Dhaka, Bangladesh · <a href="https://tivoniq.com">tivoniq.com</a></sub>
+
 </div>
